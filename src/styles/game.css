@@ -1,0 +1,22 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+#game-zone{
+    width: 487px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+ 
+.board{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
